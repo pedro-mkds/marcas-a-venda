@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://meuduke.com.br/sitemap.xml
